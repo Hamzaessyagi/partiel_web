@@ -1,2 +1,1 @@
-# partiel_web
-maquette figma 
+Es-syagi hamza, 2025,groupe B
